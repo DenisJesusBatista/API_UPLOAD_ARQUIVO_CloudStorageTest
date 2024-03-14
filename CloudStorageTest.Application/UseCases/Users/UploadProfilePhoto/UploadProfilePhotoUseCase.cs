@@ -7,6 +7,6 @@ public class UploadProfilePhotoUseCase
     public void Execute(IFormFile file)
     {
 
-
+        .
     }
 }   
