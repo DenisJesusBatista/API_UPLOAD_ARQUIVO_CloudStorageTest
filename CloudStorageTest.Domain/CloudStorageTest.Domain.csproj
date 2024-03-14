@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
@@ -8,15 +8,7 @@
 
   <ItemGroup>
     <FrameworkReference Include="Microsoft.AspNetCore.App" />
-    
-  </ItemGroup>
 
-  <ItemGroup>
-    <PackageReference Include="File.TypeChecker" Version="4.0.0" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <ProjectReference Include="..\CloudStorageTest.Domain\CloudStorageTest.Domain.csproj" />
   </ItemGroup>
 
 </Project>
